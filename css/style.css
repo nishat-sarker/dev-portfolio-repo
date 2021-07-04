@@ -11,7 +11,7 @@ a{
     margin: auto;
 }
 .banner-area{
-    background-image: url(imgs/top-banner.png);
+    background-image: url(/imgs/top-banner.png);
     background-repeat: no-repeat;
 }
 .banner{
