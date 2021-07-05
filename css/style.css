@@ -49,5 +49,12 @@ a{
 }
 .banner-img{
     width: 45%;
-    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.banner-area_2{
+    margin: 80px 0px;
+    background-image: url(../img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
