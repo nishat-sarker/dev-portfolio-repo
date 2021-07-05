@@ -58,3 +58,59 @@ a{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+/* Experiences Section css code start from here */
+.experiences_area{
+    background-image: url(../img/exp-bg.png);
+    background-repeat: no-repeat;
+    margin: 60px 0px;
+}
+.experiences_area h1{
+    font-size: 50px;
+}
+.experience{
+    margin-top: 25px;
+    display: flex;
+}
+.full-stack{
+    width: 45%;
+    margin-right: 5%;
+    text-align: justify;
+    padding: 10px;
+    box-shadow: 10px 6px 35px  gray;
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg
+    , rgba(255, 2, 2, 0.932), rgb(255, 154, 71));
+    border-image-slice: 1;
+    
+}
+.experience h2{
+    font-size: 38px;
+    margin: 20px 0px;
+}
+.experience h3{
+    color:#ffaa0e;
+    margin: 10px 0px;
+}
+.experience p{
+    color: #7f7a73;
+}
+.baby-developer{
+    width: 45%;
+    margin-left: 5%;
+    text-align: justify;
+    padding: 10px;
+    box-shadow: 10px 6px 35px  gray;
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg
+    , rgba(6, 2, 255, 0.932), rgb(71, 227, 255));
+    border-image-slice: 1;
+}
+/* Experiences Section css code end here */
+
+.footer{
+    text-align: center;
+}
+.footer span{
+    color: red;
+}
